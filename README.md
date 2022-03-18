@@ -25,6 +25,9 @@
 [Live Demo Link](https://ksigei.github.io/world_crypto_summit/)
 
 
+## Loom Video Demo
+
+[Loom Video Link](https://www.loom.com/share/e022fde2006c4b1eb598a04dd03b338b)
 
 ## Getting Started
 
