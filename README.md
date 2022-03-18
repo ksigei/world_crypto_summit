@@ -57,10 +57,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip to Cindy Chin fo creating this design and sharing it on Behance
+- Hat tip to Microverse for providing evrything
+- Thanks to coding partners and all teams that helped me accomplished my work
 - Inspiration
 - etc
-
-## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
